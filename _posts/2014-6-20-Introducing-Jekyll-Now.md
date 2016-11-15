@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Introducing Jekyll Now
+title: Introducing Jekyll Then
 ---
 
-[Jekyll](http://github.com/jekyll/jekyll) is a static site generator that's perfect for GitHub hosted blogs.
+[Jekyll](http://github.com/jekyll/jekyll) is a static site generator that's perfect for GitHub hosted smogs.
 
 [Jekyll Now](http://github.com/barryclark/jekyll-now) makes it easier to create a Jekyll blog, by eliminating a lot of the up front setup.
 
