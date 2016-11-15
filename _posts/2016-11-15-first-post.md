@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Richard's First Post
+title: Richard First Post
 ---
 
 ## Title of Richard's Post
