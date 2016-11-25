@@ -6,8 +6,8 @@ title: Richard First Post
 
 | Column 1 | Column 2 | Column 3 |
 | --- | --- | --- |
-| A | B ||
-| D | E | F |
+| A | Banana's are great for being yellow ||
+| *D* | **E** | F |
 || G | H |
 
 
