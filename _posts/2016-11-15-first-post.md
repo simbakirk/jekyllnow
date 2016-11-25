@@ -7,9 +7,11 @@ title: Richard First Post
 
 This is my first, test, blog post.
 
-Yippee Skip!!
+Yippee Skip
 
 | Column 1 | Column 2 | Column 3 |
+| --- | --- | --- |
+
 
 
 *Bold?*
