@@ -36,10 +36,12 @@ Here's an example of some code, but I don't want it to be interpreted as HTML, I
 </tr>
 </table>
 
-Here's some plain text.
+### Here's an H3
 
 <pre style="border:solid 1px black; border-radius:4em;">
 This should be in a rounded rectangle
 </pre>
 
-Plain text at the end.
+### Here's a final H3
+
+
