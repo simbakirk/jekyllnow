@@ -18,7 +18,7 @@ Here is an image
 
 Here's an exampel of some coe, but I don't want it to be interpreted as HTML
 
-'''
+```
 <dl>
   <dt>Definition list</dt>
   <dd>Is something people use sometimes.</dd>
@@ -26,4 +26,4 @@ Here's an exampel of some coe, but I don't want it to be interpreted as HTML
   <dt>Markdown in HTML</dt>
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
-'''
+```
