@@ -16,7 +16,7 @@ title: Richard First Post
 Here is an image
 ![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
-Here's an exampel of some coe, but I don't want it to be interpreted as HTML
+Here's an example of some code, but I don't want it to be interpreted as HTML, I just want ot show what the HTML looks like:
 
 ```
 <dl>
