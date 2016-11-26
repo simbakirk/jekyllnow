@@ -27,3 +27,11 @@ Here's an example of some code, but I don't want it to be interpreted as HTML, I
   <dd>Does *not* work **very** well. Use HTML <em>tags</em>.</dd>
 </dl>
 ```
+
+## In-line HTML
+
+<table>
+<tr>
+<td>This is a Table coded in HTML</td><td>And it's been included in teh MArkdown page</td>
+</tr>
+</table>
